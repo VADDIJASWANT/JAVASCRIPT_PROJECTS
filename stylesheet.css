@@ -27,7 +27,7 @@ body,html{
   text-align:center;
   background: rgba(0,0,0,0.4);
   text-shadow:0 0 0.5rem black;
-  transition:all .07secs ease;
+  transition:all .07s ease;
 }
 kbd{
     display: block;
